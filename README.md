@@ -196,7 +196,6 @@ tools
 App url: https://upgraded-fishstick-x9499q4qx693pj7g-8501.app.github.dev/
 ----
 Messy long math solution by the AI:
-<img width="1258" height="730" alt="Screen Shot 2026-03-10 at 7 01 23 PM" src="https://github.com/user-attachments/assets/94edb630-e8ca-4715-888b-a80b5c333a2b" />
 <img width="1252" height="593" alt="Screen Shot 2026-03-10 at 7 16 52 PM" src="https://github.com/user-attachments/assets/5aee76db-3fd7-4a95-91f2-6641dd242c5c" />
 <img width="1258" height="600" alt="Screen Shot 2026-03-10 at 7 17 12 PM" src="https://github.com/user-attachments/assets/8c67ee0d-6611-458b-8e59-91ef7e6fbfbc" />
 
