@@ -10,6 +10,10 @@ Streamlit
 
 No paid APIs. No hosting cost.
 
+Smaple output: 
+<img width="1096" height="646" alt="Screen Shot 2026-03-10 at 6 43 31 PM" src="https://github.com/user-attachments/assets/4ea61f6d-39dc-4fc2-9985-39cc34e40337" />
+
+
 1️⃣ Project Folder Structure
 
 Create this structure in Codespaces:
@@ -167,6 +171,13 @@ You now have:
 ✅ No API costs
 ✅ Shareable link
 ✅ Chat memory in session
+
+
+Output Screenshots:
+
+<img width="1259" height="693" alt="Screen Shot 2026-03-10 at 7 00 12 PM" src="https://github.com/user-attachments/assets/6a7dbc24-3fff-4a8f-aa03-b613ff89b485" />
+
+<img width="1258" height="730" alt="Screen Shot 2026-03-10 at 7 01 23 PM" src="https://github.com/user-attachments/assets/66d00662-3948-435f-ba4f-5238d8674360" />
 
 🔥 Future implimentation/upgrade this to a real ChatGPT-level system with:
 
