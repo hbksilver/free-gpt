@@ -191,6 +191,10 @@ code interpreter
 
 tools
 
+agent workflows
+
+All still 100% free.
+
 
 ----
 App url: https://upgraded-fishstick-x9499q4qx693pj7g-8501.app.github.dev/
@@ -198,9 +202,3 @@ App url: https://upgraded-fishstick-x9499q4qx693pj7g-8501.app.github.dev/
 Messy long math solution by the AI:
 <img width="1252" height="593" alt="Screen Shot 2026-03-10 at 7 16 52 PM" src="https://github.com/user-attachments/assets/5aee76db-3fd7-4a95-91f2-6641dd242c5c" />
 <img width="1258" height="600" alt="Screen Shot 2026-03-10 at 7 17 12 PM" src="https://github.com/user-attachments/assets/8c67ee0d-6611-458b-8e59-91ef7e6fbfbc" />
-
-
-
-agent workflows
-
-All still 100% free.
